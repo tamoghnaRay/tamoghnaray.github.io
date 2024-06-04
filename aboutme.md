@@ -10,7 +10,7 @@ My name is Tamoghna Ray and I am a theoretical physics grad student working in t
 - Cavity QED
 - Quantum Chaos
 - Open Quantum Systems
-- Matrix product states and related algorithms to solve open quantum many body problems
+- Matrix product states and related algorithms to solve open quantum many-body problems
 
 <!-- What else do you need? -->
 
